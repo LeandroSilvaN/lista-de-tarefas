@@ -20,7 +20,7 @@ O projeto permite adicionar, remover e salvar tarefas diretamente no navegador u
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 - **LocalStorage API**
 
 ---
